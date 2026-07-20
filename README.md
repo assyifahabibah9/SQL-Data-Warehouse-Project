@@ -5,7 +5,7 @@ Selamat datang di repository Data Warehouse and Analytics Project! 🚀
 Proyek ini menunjukkan solusi data warehousing dan analytics secara end-to-end, mulai dari membangun data warehouse hingga menghasilkan insight yang actionable. Proyek ini menyoroti penerapan best practice industri dalam data engineering dan analytics.
 
 ## 🏗️ Data Architecture
-
+![Data Architecture](docs/data_architecture.png)
 Arsitektur data pada proyek ini mengikuti **Medallion Architecture** dengan layer Bronze, Silver, dan Gold:
 
 - **Bronze Layer**: Menyimpan data mentah apa adanya dari sistem sumber. Data diambil dari file CSV ke dalam SQL Server Database.
