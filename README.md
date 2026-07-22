@@ -90,6 +90,7 @@ SQL-Data-Warehouse-Project/
 │
 ├── LICENSE                              # Lisensi proyek (MIT License)
 └── README.md                            # Dokumentasi utama proyek
+```
 
 ---
 
@@ -99,13 +100,3 @@ SQL-Data-Warehouse-Project/
 * **Management Tool**: SQL Server Management Studio (SSMS)
 * **Version Control**: Git & GitHub
 * **Diagramming**: Draw.io / PDF Export
-
----
-
-## 🛡️ License
-
-Proyek ini dilisensikan di bawah **MIT License**.
-
-```
-
-```
